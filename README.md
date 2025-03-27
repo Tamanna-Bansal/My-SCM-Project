@@ -1,10 +1,1 @@
-# Project Name
-
-## Description
-This is a sample project that demonstrates advanced Git features.
-
-## Installation
-To get started, clone the repository:
-```bash
-git clone https://github.com/Tamanna-Bansal/My-SCM-Project.git
-
+This is my contribution
